@@ -57,5 +57,5 @@ This project bridges the gap between high-level ROS 2 Nav2 algorithms and low-le
 ---
 
 ## 🤝 Contributors
-* **Mohammad Mustahsin** – System Architecture & Implementation
-* **Faisal khan** – Collaboration & Development Support
+* **Shahazad Abdullah** – System Architecture & Implementation
+* **Mustahsin** – Collaboration & Development Support
