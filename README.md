@@ -1,6 +1,3 @@
-# PUPPY_PI-BIONIC-DOG
-
-
 # Project II: Puppy Pi – System Design and Implementation
 
 ## 📌 Overview
@@ -55,7 +52,3 @@ This project bridges the gap between high-level ROS 2 Nav2 algorithms and low-le
 * **Result:** The PuppyPi can autonomously patrol an area, detect dynamic or unknown obstacles, halt, back up, and dynamically re-route around them.
 
 ---
-
-## 🤝 Contributors
-* **Shahazad Abdullah** – System Architecture & Implementation
-* **Mustahsin** – Collaboration & Development Support
