@@ -52,7 +52,7 @@ This project bridges the gap between high-level ROS 2 Nav2 algorithms and low-le
 * **Result:** The PuppyPi can autonomously patrol an area, detect dynamic or unknown obstacles, halt, back up, and dynamically re-route around them.
 
 ---
-CONTRIBUTORS 
+### CONTRIBUTORS 
 
-CSE-22-29 
-CSE-22-01
+-----------------CSE-22-29.-------------------------------- 
+-----------------CSE-22-01.--------------------------------
