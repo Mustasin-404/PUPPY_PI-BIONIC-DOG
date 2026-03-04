@@ -52,20 +52,30 @@ This project bridges the gap between high-level ROS 2 Nav2 algorithms and low-le
 * **Result:** The PuppyPi can autonomously patrol an area, detect dynamic or unknown obstacles, halt, back up, and dynamically re-route around them.
 
 ---
-### CONTRIBUTORS
+## 👥 Contributors
 
-**CSE-22-29 – Mohammad Mustasin**  
-**CSE-22-01 – Faisal Khan**
+* **Mohammad Mustasin** (CSE-22-29)
+* **Faisal Khan** (CSE-22-01)
 
+---
 
-### Practical Implementation of PHASE 1 
-https://github.com/user-attachments/assets/1865a9fb-7d39-4c8c-9a0c-ee44f4bd9ebb
+## 🚀 Practical Implementation
 
-### Practical implementation of PHASE 2
-https://github.com/user-attachments/assets/f2c1609e-f8a5-467f-8752-193871682820
+This project was developed in multiple stages. Below are the video demonstrations for each phase of the implementation:
 
-### Practical implementation of PHASE 3
-https://github.com/user-attachments/assets/aa6ab230-2b6b-49cd-b060-fd9ca6f2e6c9
+### 🔹 Phase 1
+[Watch Phase 1 Demonstration](https://github.com/user-attachments/assets/1865a9fb-7d39-4c8c-9a0c-ee44f4bd9ebb)
 
-### Practical implementation of PHASE 4
-https://github.com/user-attachments/assets/ebb6de9b-7c30-443e-9da0-d6a7d2384588
+### 🔹 Phase 2
+[Watch Phase 2 Demonstration](https://github.com/user-attachments/assets/f2c1609e-f8a5-467f-8752-193871682820)
+
+### 🔹 Phase 3
+[Watch Phase 3 Demonstration](https://github.com/user-attachments/assets/aa6ab230-2b6b-49cd-b060-fd9ca6f2e6c9)
+
+### 🔹 Phase 4
+[Watch Phase 4 Demonstration](https://github.com/user-attachments/assets/ebb6de9b-7c30-443e-9da0-d6a7d2384588)
+
+### 🔹 Phase 5
+[Watch Phase 5 Demonstration](https://github.com/user-attachments/assets/545351ef-4383-4c28-8e5c-ae58e50fe739)
+
+---
