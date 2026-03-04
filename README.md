@@ -58,6 +58,5 @@ This project bridges the gap between high-level ROS 2 Nav2 algorithms and low-le
 **CSE-22-01 – Faisal Khan**
 
 
-### Practical demonstration of PHASE 1 
-
-https://github.com/user-attachments/assets/565eec38-53f4-4601-8712-dd5b47766e1e
+### Practical Implementaion of PHASE 1 
+https://github.com/user-attachments/assets/1865a9fb-7d39-4c8c-9a0c-ee44f4bd9ebb
