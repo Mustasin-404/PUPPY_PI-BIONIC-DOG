@@ -66,3 +66,6 @@ https://github.com/user-attachments/assets/f2c1609e-f8a5-467f-8752-193871682820
 
 ### Practical implementation of PHASE 3
 https://github.com/user-attachments/assets/aa6ab230-2b6b-49cd-b060-fd9ca6f2e6c9
+
+### Practical implementation of PHASE 4
+https://github.com/user-attachments/assets/ebb6de9b-7c30-443e-9da0-d6a7d2384588
